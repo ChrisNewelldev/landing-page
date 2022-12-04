@@ -1,2 +1,2 @@
 # landing-page
-this is a landing page and all going to be redone.  Just a placeholder while I get everything sorted out
+This is a simple landing page template.  The main purpose is to get a firm understanding of html and css, 
