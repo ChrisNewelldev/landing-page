@@ -33,12 +33,12 @@ body {
     width: 100%;
   }
 
-  .row {
+  .row-hero {
     display: flex;
     background-color: #1f2937;
   }
   
-  .column {
+  .column-hero {
     flex: 50%;
   }
 
@@ -52,6 +52,7 @@ body {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+    text-align: center;
   }
 
   h3 {
@@ -76,5 +77,19 @@ body {
   }
 
   .hero-btn {
+    background-color: #3882F6;
+  }
 
+  .info {
+    justify-content: space-evenly;
+  }
+
+  .row {
+    display: flex;
+  }
+
+  .column {
+    flex: 25%;
+    text-align: center;
+  padding: 20px;
   }
