@@ -93,3 +93,12 @@ body {
     text-align: center;
   padding: 20px;
   }
+
+  header {
+    height: 63.5px;
+  }
+
+  .quote {
+    padding: 10%;
+    background-color: #E5E7EB;
+  }
