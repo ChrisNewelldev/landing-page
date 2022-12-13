@@ -91,7 +91,7 @@ body {
   .column {
     flex: 25%;
     text-align: center;
-  padding: 20px;
+    padding: 20px;
   }
 
   header {
@@ -101,4 +101,9 @@ body {
   .quote {
     padding: 10%;
     background-color: #E5E7EB;
+  }
+
+  #cards {
+    padding-left: 25%;
+    padding-right: 25%;
   }
