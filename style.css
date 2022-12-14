@@ -107,3 +107,16 @@ body {
     padding-left: 25%;
     padding-right: 25%;
   }
+
+  #call-to-action {
+    background-color: #3882F6;
+    padding: 3%;
+  }
+
+  footer {
+    background-color: #1f2937;
+    justify-content: center;
+    text-align: center;
+    padding: 3%;
+    color: #E5E7EB;
+  }
